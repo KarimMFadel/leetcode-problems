@@ -1,4 +1,4 @@
-package problems;
+package randomProblems;
 public class MinimumMovestoReachTargetScore2139 {
     public static void main(String[] args) {
         System.out.println(minMoves(19,2));

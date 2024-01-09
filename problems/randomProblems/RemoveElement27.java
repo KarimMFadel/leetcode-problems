@@ -1,4 +1,4 @@
-package problems;
+package randomProblems;
 public class RemoveElement27 {
     public static void main(String[] args) {
         int[] nums = {2,7};

@@ -1,4 +1,4 @@
-package problems;
+package randomProblems;
 public class RunningSumof1dArray1480 {
     public static void main(String[] args) {
         

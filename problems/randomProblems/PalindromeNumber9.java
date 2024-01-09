@@ -1,4 +1,4 @@
-package problems;
+package randomProblems;
 public class PalindromeNumber9 {
     
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package problems;
+package randomProblems;
 class StringCompression443 {
     public static void main(String[] args) {
         char[] chars = {'a','a','b','b','c','c','c'};

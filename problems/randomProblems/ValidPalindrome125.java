@@ -1,4 +1,4 @@
-package problems;
+package randomProblems;
 public class ValidPalindrome125 {
     public static void main(String[] args) {
         System.out.println(isPalindrome("A man, a plan, a canal: Panama"));

@@ -1,4 +1,4 @@
-package problems;
+package randomProblems;
 class NumberofStepstoReduceANumbertoZero1342 {
     public static void main(String[] args) {
         System.out.println(numberOfSteps(8));

@@ -1,4 +1,4 @@
-package problems;
+package randomProblems;
 
 public class ValidParentheses20 {
     public static void main(String[] args) {
