@@ -1,0 +1,58 @@
+
+Nermeen Wageh
+-------------
+https://github.com/nermeenwageh10/Leetcode-Solutions/tree/main/Beginner%20level
+
+
+Nick White
+-----------
+https://www.youtube.com/watch?v=U6-X_QOwPcs&list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-
+
+NeetCode
+-----------
+https://www.youtube.com/@NeetCode
+
+Algorithms Lecture:-
+-------------------
+https://m.youtube.com/playlist?list=PL6KMWPQP_DM8t5pQmuLlarpmVc47DVXWd
+
+TechTime LeetCode Sheet V1
+--------------------------
+https://docs.google.com/spreadsheets/u/1/d/1jmR3kY0GyVCGc06euFslFWaKbJyPhZcTykMcfK02thk/edit#gid=0
+https://youtube.com/playlist?list=PL9B5WmPowtSnGPSvQGv5HVIA5nTY9hBoN
+https://docs.google.com/spreadsheets/d/1jmR3kY0GyVCGc06euFslFWaKbJyPhZcTykMcfK02thk/edit?pli=1#gid=2098089487
+
+=========================================================================
+https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode
+https://leetcode.com/explore/
+https://leetcode.com/study-plan/
+https://leetcode.com/discuss/study-guide?currentPage=1&orderBy=most_votes&query=
+https://leetcode.com/explore/learn/card/the-leetcode-beginners-guide/679/sql-syntax/4358/
+
+
+=========================
+links:- 
+https://levelup.gitconnected.com/i-wish-i-knew-these-12-algorithms-and-their-applications-before-the-system-design-interview-5fb7fa8b1177
+
+
+
+Fenwick trees.  
+binary indexed trees (BITs) ==> is a data structure that allows efficient updates and queries on an array of values. In a BIT, each element of the array corresponds to a node in a binary tree, and each node stores the sum of the elements in its left subtree.
+
+=================================================================
+
+This would have saved me from solving 1500+ problems:
+
+Dynamic Programming Patterns: https://lnkd.in/gbpRU46g
+
+Substring Problem Patterns: https://lnkd.in/gdGtE72g
+
+Backtracking Problem Patterns: https://lnkd.in/gVkQX5vA
+
+Two Pointers Patterns: https://lnkd.in/gBfWgHYe
+
+Binary Search Patterns: https://lnkd.in/gKEm_qUK
+
+Sliding Window Patterns: https://lnkd.in/gjatQ5pK
+
+Graph Patterns: https://lnkd.in/gKE6w7Jb
