@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name":"Bubble sort",
+        "type" : "",
+        "time complexity" : "O(n^2)",
+        "space complexity" : "O(1)",
+        "description" : {
+            "firstDesc" : "",
+            "secondDesc" : ""
+        }
+    },
+    {
+        "id": 2,
+        "name":"Insertion sort",
+        "type" : "",
+        "time complexity" : "",
+        "space complexity" : "",
+        "description" : {
+            "firstDesc" : "",
+            "secondDesc" : ""
+        }
+    },
+    {
+        "id": 3,
+        "name":"Selection sort",
+        "type" : "",
+        "time complexity" : "",
+        "space complexity" : "",
+        "description" : {
+            "firstDesc" : "",
+            "secondDesc" : ""
+        }
+    },
+    {
+        "id": 4,
+        "name":"Quicksort",
+        "type" : "",
+        "time complexity" : "",
+        "space complexity" : "",
+        "description" : {
+            "firstDesc" : "",
+            "secondDesc" : ""
+        }
+    }
+]

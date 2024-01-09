@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name":"in-place algorithm",
+        "type" : "",
+        "description" : {
+            "firstDesc" : "operates directly on the input data without requiring any additional space to be allocated for temporary storage.",
+            "secondDesc" : "an in-place algorithm modifies the input data in place, without creating a copy of the data or using any additional memory."
+        }, 
+        "examples/usage": {
+            "string manipulation algorithms" : ["reverse a string", "remove duplicates from a string"]
+        }
+    },
+    {
+        "id": 2,
+        "name":"nativrute-force algorithm",
+        "type" : "",
+        "description" : {
+            "firstDesc" : "",
+            "secondDesc" : ""
+        }
+    },
+    {
+        "id": 3,
+        "name":"binary lifting algorithm",
+        "type" : "",
+        "time complexity" : "O(n log n)",
+        "space complexity" : "O(n log n)",
+        "description" : {
+            "firstDesc" : "used to find the lowest common ancestor (LCA) of two nodes in a tree.",
+            "secondDesc" : ""
+        }
+    },
+    {
+        "id": 4,
+        "name":"Tarjan's offline algorithm",
+        "type" : "",
+        "description" : {
+            "firstDesc" : "used to find the lowest common ancestor (LCA) of two nodes in a tree.",
+            "secondDesc" : ""
+        }
+    },
+    {
+        "id": 4,
+        "name":"Tarjan's online algorithm",
+        "type" : "",
+        "description" : {
+            "firstDesc" : "",
+            "secondDesc" : ""
+        }
+    }
+]
