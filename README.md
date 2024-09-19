@@ -1,24 +1,28 @@
 # leetcode-problems
 
-
 ## youTube channel:-
+
 ----------------
-https://www.youtube.com/@NeetCode
-https://www.youtube.com/watch?v=IufUNRCQ37E&list=PLY5pAT_51eGyo4ixvdZgzY57N0_R1QMtb
-https://www.youtube.com/@AlgoJS/playlists
-https://www.youtube.com/watch?v=gFdP6X4CyKU&list=PLPt2dINI2MIattDutu7IOAMlUuLeN8k2p  (Arabic)
-https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm
-https://www.youtube.com/@onecodeman/playlists
-https://www.youtube.com/@timc3406/playlists
+<https://www.youtube.com/@NeetCode>
+<https://www.youtube.com/watch?v=IufUNRCQ37E&list=PLY5pAT_51eGyo4ixvdZgzY57N0_R1QMtb>
+<https://www.youtube.com/@AlgoJS/playlists>
+<https://www.youtube.com/watch?v=gFdP6X4CyKU&list=PLPt2dINI2MIattDutu7IOAMlUuLeN8k2p>  (Arabic)
+<https://www.youtube.com/watch?v=mmjDZGSr7EA&list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm>
+<https://www.youtube.com/@onecodeman/playlists>
+<https://www.youtube.com/@timc3406/playlists>
 
+<https://neetcode.io/roadmap>
 
-https://neetcode.io/roadmap
+Graph:- <https://leetcode.com/list/x1vj23fh/>
+Dynamic Programming:- <https://leetcode.com/list/x1k8lxi5/>
+                    <https://leetcode.com/studyplan/dynamic-programming/>
+                    <https://www.youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf>
 
-Graph:- https://leetcode.com/list/x1vj23fh/
-Dynamic Programming:- https://leetcode.com/list/x1k8lxi5/
-                    https://leetcode.com/studyplan/dynamic-programming/
-                    https://www.youtube.com/playlist?list=PLVrpF4r7WIhTT1hJqZmjP10nxsmrbRvlf
-                    
+## Solutions
+
+<https://vegito2002.gitbooks.io/leetcode-notes/content/CountBinarySubstrings.html>
+<https://prepfortech.io/leetcode-solutions/valid-number>
+<https://leetcodethehardway.com/tutorials/category/basic-topics> With C++
 
 ## LinkedList
 
@@ -31,7 +35,8 @@ Dynamic Programming:- https://leetcode.com/list/x1k8lxi5/
 237. Delete Node in a Linked List (medium)
 
 ===============================
-## Manipulating Numbers concepts and using loops or recursion to solve them.
+
+## Manipulating Numbers concepts and using loops or recursion to solve them
 
 1342. Number of Steps to Reduce a Number to Zero
 191. Number of 1 Bits
@@ -45,16 +50,22 @@ Dynamic Programming:- https://leetcode.com/list/x1k8lxi5/
 202. Happy Number
 231. Power of Two
 
-
 ============================================================
+
 ## Sliding Window
 
-https://leetcode.com/tag/sliding-window
-
+<https://leetcode.com/tag/sliding-window>
 
 ============================================================
 
-## common problem-solving algorithms and approaches:
+## Prefix Sum
+
+<https://leetcode.com/problem-list/prefix-sum/>
+
+============================================================
+
+## common problem-solving algorithms and approaches
+
 1. Brute force
 2. Greedy algorithms
 3. Divide and conquer

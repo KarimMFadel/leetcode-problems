@@ -1,8 +1,5 @@
-package randomProblems;
+package prefixsum;
 public class RunningSumof1dArray1480 {
-    public static void main(String[] args) {
-        
-    }
 
     public int[] runningSum(int[] nums) {
         int sum = 0;
